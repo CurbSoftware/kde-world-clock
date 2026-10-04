@@ -1,3 +1,7 @@
+# Do Not Use
+
+Project merged to https://github.com/CurbSoftware/desktop-xlets.
+
 # World Clock for KDE Plasma
 
 A grid of world timezone clocks as one plasmoid: drop it on the desktop
